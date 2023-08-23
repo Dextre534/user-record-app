@@ -30,7 +30,7 @@ In the file, change the parser options to this
 
 Then run "npm run serve" and access the app through links provided in terminal
 
-# Past problems
+# Past problems (FIXED)
 
 The error that pops up has something to do with ESLint
 
@@ -38,5 +38,3 @@ I have tried to run
 
 - npm install eslint -g -D
 - eslint --init
-
-but so far it's not working..
