@@ -19,7 +19,7 @@ The error that pops up has something to do with ESLint
 
 I have tried to run 
 
-npm install eslint -g -D
-eslint --init
+- npm install eslint -g -D
+- eslint --init
 
-but so far it's not working
+but so far it's not working..
